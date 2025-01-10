@@ -1,0 +1,6 @@
+@SnippetApi_HostAddress = http://localhost:5130
+
+GET {{SnippetApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

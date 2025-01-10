@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbeEQ7CIvJU=",
+  "success": true,
+  "projectFilePath": "C:\\Work & Learning\\Multiverse\\Back-end development\\SnippetApi\\SnippetApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leose\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\leose\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
